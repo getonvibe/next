@@ -1,0 +1,63 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3867246, 2020-12-16T11:57:38-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Kelson Ultra Light by Armasen
+ * URL: https://www.myfonts.com/products/thin-kelson-168920
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Kelson Light by Armasen
+ * URL: https://www.myfonts.com/products/light-kelson-168898
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Kelson Regular by Armasen
+ * URL: https://www.myfonts.com/products/regular-kelson-168930
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Kelson Medium by Armasen
+ * URL: https://www.myfonts.com/products/medium-kelson-168908
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Kelson Bold by Armasen
+ * URL: https://www.myfonts.com/products/bold-kelson-168888
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Kelson Extra Bold by Armasen
+ * URL: https://www.myfonts.com/products/extra-bold-kelson-168946
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ * 
+ * © 2023 MyFonts Inc. */
+
+
+  
+@font-face {
+  font-family: "KelsonRegular";
+  src: url('../fonts/kelson/KelsonRegular/font.woff2') format('woff2'), url('webFonts/KelsonRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "KelsonLight";
+  src: url('webFonts/KelsonLight/font.woff2') format('woff2'), url('webFonts/KelsonLight/font.woff') format('woff');
+}
+@font-face {
+  font-family: "KelsonExtraBold";
+  src: url('webFonts/KelsonExtraBold/font.woff2') format('woff2'), url('webFonts/KelsonExtraBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "KelsonMedium";
+  src: url('webFonts/KelsonMedium/font.woff2') format('woff2'), url('webFonts/KelsonMedium/font.woff') format('woff');
+}
+@font-face {
+  font-family: "KelsonUltraLight";
+  src: url('webFonts/KelsonUltraLight/font.woff2') format('woff2'), url('webFonts/KelsonUltraLight/font.woff') format('woff');
+}
+@font-face {
+  font-family: "KelsonBold";
+  src: url('webFonts/KelsonBold/font.woff2') format('woff2'), url('webFonts/KelsonBold/font.woff') format('woff');
+}
+
