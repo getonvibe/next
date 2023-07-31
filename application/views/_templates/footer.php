@@ -1,7 +1,7 @@
 	</div>
 	</div>
 	<hr>
-	<div class="footer">  &copy; <?php echo date("Y") ?> - Powered by <a href="http://www.phpback.org/" target="_blank">PHPBack</a></div>
+	<div class="footer">  &copy; <?php echo date("Y") ?> - GetOnVibe Feature Request system - <span style="font-size:0.5em">Powered by <a href="http://www.phpback.org/" target="_blank">PHPBack</a></span></div>
     <script src="<?php echo base_url(); ?>public/js/jquery-1.8.3.min.js"></script>
     <script src="<?php echo base_url(); ?>public/js/bootstrap.min.js"></script>
     <script src="<?php echo base_url(); ?>public/js/bootstrap-select.js"></script>
