@@ -90,7 +90,7 @@ See LICENSE.TXT for details.  -->
     	background-color: #ECF0F1;
     }
     body{
-    	background-color: #27AE60;
+    	background-color: #525AF2;
     }
     </style>
     <script src="<?php echo base_url(); ?>public/js/bootstrap.min.js"></script>
